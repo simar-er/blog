@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/simar-er/simar-er.github.io.git
+	branch = master
