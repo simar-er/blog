@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "simart gallery"
-baseurl = "http://example.org/"
+baseurl = "https://simar-er.github.io/"
 theme = "prologue"
 
 [params]
