@@ -1,0 +1,77 @@
+languageCode = "en-us"
+title = "simart gallery"
+baseurl = "http://example.org/"
+theme = "prologue"
+
+[params]
+  img = "images/simart.jpg"
+  name = "Simart Gallery"
+  description = "siti maryani artist"
+  copyright = "Untitled."
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "dribbble"
+  icon = "dribbble"
+  link = "#"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "#"
+
+# Portfolio column one
+
+[[params.portfolio1]]
+  title = "Ipsum Feugiat"
+  alt = ""
+  source = "images/01.jpg"
+  url = "#"
+
+[[params.portfolio1]]
+  title = "Rhoncus Semper"
+  alt = ""
+  source = "images/2.jpeg"
+  url = "#"
+
+# Portfolio column two
+
+[[params.portfolio2]]
+  title = "Magna Nullam"
+  alt = ""
+  source = "images/03.jpg"
+  url = "#"
+
+[[params.portfolio2]]
+  title = "Natoque Vitae"
+  alt = ""
+  source = "images/04.jpg"
+  url = "#"
+
+# Portfolio column 3
+
+[[params.portfolio3]]
+  title = "Dolor Penatibus"
+  alt = ""
+  source = "images/05.jpg"
+  url = "#"
+
+[[params.portfolio3]]
+  title = "Orci Convallis"
+  alt = ""
+  source = "images/06.jpg"
+  url = "#"
